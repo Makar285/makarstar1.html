@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <title>My1</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="main.css">
 </head>
