@@ -1,6 +1,5 @@
-<html lang="en">
-
 <head>
+    <title>My1</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="main.css">
 </head>
@@ -14,7 +13,6 @@
     </header>
 
     <main>
-        <a href="/root/Desktop/python/web_project/html_project1.html">a</a>
         <section id="Орбан">
             <h2>Орбан рассказал, что сделал бы на месте фон дер Ляйен</h2>
             <ol>
@@ -63,5 +61,3 @@
         </section>
     </main>
 </body>
-
-</html>
